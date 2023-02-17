@@ -115,6 +115,7 @@ img {
 
 .cart__select {
     max-height: 48px;
+    max-width: 20px;
 }
 
 .cart__item-subtotal {
